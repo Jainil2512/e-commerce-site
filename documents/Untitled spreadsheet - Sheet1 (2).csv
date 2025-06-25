@@ -1,0 +1,5 @@
+product_name,price,stock,description ,image_url,status 
+milk,60,0,buy milk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdLYLrpcL-2TKZDY0eljDthboDPMytCCRgVg&s,approved
+wood,50,5,buy wood,https://5.imimg.com/data5/SELLER/Default/2023/8/339478546/TK/YK/JH/53140702/wood-1-500x500.jpg,approved
+laptop,100,50,7th gen intel core i7,https://shorturl.at/mDAiE,approved
+mobile,60,90,"Samsung Galaxy M35 5G (Thunder Grey,6GB RAM,128GB Storage)",https://m.media-amazon.com/images/I/81FZk5pGzFL.jpg,approved

@@ -1,0 +1,10 @@
+product_name,price,stock,description ,image_url,status 
+milk,60,0,buy milk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdLYLrpcL-2TKZDY0eljDthboDPMytCCRgVg&s,approved
+wood,50,5,buy wood,https://5.imimg.com/data5/SELLER/Default/2023/8/339478546/TK/YK/JH/53140702/wood-1-500x500.jpg,approved
+laptop,100,50,"HP 15s, 12th Gen Intel Core i3-1215U, 8GB DDR4, 512GB SSD, (Win 11, Office 21, Silver, 1.69kg), Anti-Glare, 15.6-inch (39.6cm) FHD Laptop, Intel UHD Graphics, HD Camera, Dual Speakers,",https://m.media-amazon.com/images/I/71k9Z+agn8L._SX679_.jpg,pending
+mobile,60,90,"Samsung Galaxy M35 5G (Thunder Grey,6GB RAM,128GB Storage)",https://m.media-amazon.com/images/I/81FZk5pGzFL.jpg,approved
+Headphones,40,10,"boAt Rockerz 450, 15 HRS Battery, 40mm Drivers, Padded Ear Cushions, Integrated Controls, Dual Modes, On Ear Bluetooth Headphones, Wireless Headphone with Mic (Luscious Black)",https://img.tatacliq.com/images/i10/437Wx649H/MP000000017346208_437Wx649H_202304251122161.jpeg,approved
+earbuds,40,20,"OnePlus Buds 3 in Ear TWS Bluetooth Earbuds with Upto 49dB Smart Adaptive Noise Cancellation,Hi-Res Sound Quality,",https://m.media-amazon.com/images/I/51h7CQTRJ1L._AC_UY327_FMwebp_QL65_.jpg,approved
+shirt,20,10,TAGDO Men's Solid Shirt with Chest Pocket Short Sleeve Shirt for Summer Outdoor Activities,https://m.media-amazon.com/images/I/61+Ul562dxL._SY879_.jpg,approved
+Tshirt,10,5,ADRO Tshirt for Men | Printed T Shirt for Men | 100% Cotton Regular Fit T-Shirt |Printed T Shirt,https://m.media-amazon.com/images/I/71gK2Yn3R5L._SY879_.jpg,approved
+cargo pants,15,15,Lymio Men Cargo || Men Cargo Pants || Men Cargo Pants Cotton || Cargos for Men,https://m.media-amazon.com/images/I/61SANYrxmFL._SY879_.jpg,approved
